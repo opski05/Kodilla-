@@ -97,3 +97,15 @@ section {
   font-weight: 100;
   letter-spacing: 7px;
 }
+
+/* Intro */
+.intro {
+  background: #ffffff;
+}
+
+.intro p {
+  width: 60%;
+  margin: 0 auto;
+  padding: 25px 0;
+  font-size: 18px;
+}
