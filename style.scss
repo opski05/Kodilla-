@@ -48,3 +48,60 @@ section {
     transform: translateX(-50%);
     background: $color-main;
 }
+
+/* Splash */
+
+.splash {
+    height: 100vh;
+    position: relative;
+    background-image: url("https://i.postimg.cc/tJ2g1dmj/ca42ce41505862f0ef6ecb0b31958e22.jpg");
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+    
+.splash-inner {
+    position: absolute;
+    width: 100%;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.splash i {
+    font-size: 30px;
+    background: $color-main;
+    width: 70px;
+    height: 70px;
+    line-height: 70px;
+    color: #fff;
+    border-radius: 50%;
+}
+    
+.page-title {
+    color: $color-light;
+    font-size: 40px;
+    position: relative;
+    margin: 10px 0 0 0;
+    font-family: sans-serif;
+    font-family: $font-header
+}
+    
+.page-title::after {
+    position: absolute;
+    content: '';
+    bottom: -10px;
+    left: 50%;
+    width: 269px;
+    height: 4px;
+    transform: translateX(-50%);
+    background: $color-main;
+}
+
+.page-subtitle {
+    color: $color-light;
+    font-size: 15px;
+    margin: 22px 0 0 0;
+    font-weight: 100;
+    letter-spacing: 7px;
+}
