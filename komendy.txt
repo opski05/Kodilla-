@@ -1,0 +1,71 @@
+oskar@LAPTOP-GUSI2E06 MINGW64 /d/Kodowanie/Moduł 4_Narzedzia/learning-git-2 (master)
+$ npm exec html-validate index.html
+
+D:\Kodowanie\Moduł 4_Narzedzia\learning-git-2\index.html
+   26:53  error  Trailing whitespace  no-trailing-whitespace
+   27:48  error  Trailing whitespace  no-trailing-whitespace
+   28:57  error  Trailing whitespace  no-trailing-whitespace
+   29:52  error  Trailing whitespace  no-trailing-whitespace
+   33:20  error  Trailing whitespace  no-trailing-whitespace
+   34:59  error  Trailing whitespace  no-trailing-whitespace
+   35:55  error  Trailing whitespace  no-trailing-whitespace
+   36:55  error  Trailing whitespace  no-trailing-whitespace
+   37:53  error  Trailing whitespace  no-trailing-whitespace
+   38:42  error  Trailing whitespace  no-trailing-whitespace
+   42:20  error  Trailing whitespace  no-trailing-whitespace
+   43:53  error  Trailing whitespace  no-trailing-whitespace
+   44:48  error  Trailing whitespace  no-trailing-whitespace
+   45:61  error  Trailing whitespace  no-trailing-whitespace
+   46:52  error  Trailing whitespace  no-trailing-whitespace
+   51:55  error  Trailing whitespace  no-trailing-whitespace
+   52:55  error  Trailing whitespace  no-trailing-whitespace
+   53:55  error  Trailing whitespace  no-trailing-whitespace
+   54:65  error  Trailing whitespace  no-trailing-whitespace
+   55:42  error  Trailing whitespace  no-trailing-whitespace
+   57:19  error  Trailing whitespace  no-trailing-whitespace
+   60:57  error  Trailing whitespace  no-trailing-whitespace
+   61:50  error  Trailing whitespace  no-trailing-whitespace
+   62:63  error  Trailing whitespace  no-trailing-whitespace
+   63:64  error  Trailing whitespace  no-trailing-whitespace
+   65:19  error  Trailing whitespace  no-trailing-whitespace
+   66:31  error  Trailing whitespace  no-trailing-whitespace
+   68:55  error  Trailing whitespace  no-trailing-whitespace
+   69:55  error  Trailing whitespace  no-trailing-whitespace
+   70:55  error  Trailing whitespace  no-trailing-whitespace
+   71:70  error  Trailing whitespace  no-trailing-whitespace
+   72:42  error  Trailing whitespace  no-trailing-whitespace
+   77:57  error  Trailing whitespace  no-trailing-whitespace
+   78:52  error  Trailing whitespace  no-trailing-whitespace
+   79:58  error  Trailing whitespace  no-trailing-whitespace
+   80:52  error  Trailing whitespace  no-trailing-whitespace
+   81:57  error  Trailing whitespace  no-trailing-whitespace
+   82:51  error  Trailing whitespace  no-trailing-whitespace
+   83:48  error  Trailing whitespace  no-trailing-whitespace
+   84:74  error  Trailing whitespace  no-trailing-whitespace
+   85:34  error  Trailing whitespace  no-trailing-whitespace
+   89:20  error  Trailing whitespace  no-trailing-whitespace
+   90:55  error  Trailing whitespace  no-trailing-whitespace
+   91:55  error  Trailing whitespace  no-trailing-whitespace
+   92:55  error  Trailing whitespace  no-trailing-whitespace
+   93:65  error  Trailing whitespace  no-trailing-whitespace
+   94:42  error  Trailing whitespace  no-trailing-whitespace
+   95:57  error  Trailing whitespace  no-trailing-whitespace
+   99:20  error  Trailing whitespace  no-trailing-whitespace
+  100:53  error  Trailing whitespace  no-trailing-whitespace
+  101:52  error  Trailing whitespace  no-trailing-whitespace
+  102:62  error  Trailing whitespace  no-trailing-whitespace
+  104:21  error  Trailing whitespace  no-trailing-whitespace
+  108:55  error  Trailing whitespace  no-trailing-whitespace
+  109:55  error  Trailing whitespace  no-trailing-whitespace
+  110:55  error  Trailing whitespace  no-trailing-whitespace
+  111:65  error  Trailing whitespace  no-trailing-whitespace
+  112:40  error  Trailing whitespace  no-trailing-whitespace
+
+✖ 58 problems (58 errors, 0 warnings)
+
+More information:
+  https://html-validate.org/rules/no-trailing-whitespace.html
+
+
+oskar@LAPTOP-GUSI2E06 MINGW64 /d/Kodowanie/Moduł 4_Narzedzia/learning-git-2 (master)
+$
