@@ -1,5 +1,6 @@
+
 oskar@LAPTOP-GUSI2E06 MINGW64 /d/Kodowanie/Moduł 4_Narzedzia/learning-git-2 (master)
-$ npm exec html-validate index.html
+$ npm exec html-validate *.html
 
 D:\Kodowanie\Moduł 4_Narzedzia\learning-git-2\index.html
    26:53  error  Trailing whitespace  no-trailing-whitespace
@@ -65,7 +66,3 @@ D:\Kodowanie\Moduł 4_Narzedzia\learning-git-2\index.html
 
 More information:
   https://html-validate.org/rules/no-trailing-whitespace.html
-
-
-oskar@LAPTOP-GUSI2E06 MINGW64 /d/Kodowanie/Moduł 4_Narzedzia/learning-git-2 (master)
-$
